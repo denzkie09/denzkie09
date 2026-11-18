@@ -3,7 +3,7 @@
 <h3 align="center"> Full-Stack Developer | Computer Engineering Graduate</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=38BDF8&center=true&vCenter=true&width=500&lines=Building+projects+to+learn+by+doing;Web+Dev+%7C+Game+Dev+%7C+Applications;Currently+shipping+DevBoard+%26+SSDP" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=38BDF8&center=true&vCenter=true&width=500&lines=Building+projects+to+learn+by+doing;Web+Dev+%7C+Game+Dev+%7C+Applications" alt="Typing SVG" />
 </p>
 
 ---
@@ -63,7 +63,6 @@
 ### 🚀 Featured Projects:
 
 - 🗂️ **[DevBoard](https://github.com/denzkie09/Devboard)** — Developer productivity dashboard with Kanban boards, a command palette (Cmd/Ctrl+K), PWA support, and a full teacher/student "Classroom" assignment system. Built with Next.js, TypeScript, Tailwind CSS, and Supabase. [Live demo](https://devboard-tawny.vercel.app/)
-- 🛠️ **SSDP** — Solo SaaS platform for service/maintenance companies combining AI-generated reports, digital signatures, and blockchain hash anchoring on Lisk Sepolia for tamper-proof documentation. Next.js, NestJS, PostgreSQL/Prisma, BullMQ/Redis, Solidity/ethers.js.
 - ⚔️ **Questlog** — Blockchain project built for the Lisk Hackathon; led a 3-person team from build through pitch presentation.
 - 🎮 **PeakGG** — Gaming stats platform covering Valorant, League of Legends, CS2, and Dota 2, with per-game themed pages, a stat comparison tool, and pro player leaderboards. Next.js 15, TypeScript, Tailwind CSS.
 - 🤖 **Jarvis** — Personal AI assistant with tool-calling (file management, app launching, web search, tasks), persistent memory, and voice input/output, built Node.js/TypeScript then ported to Python/Flask.
