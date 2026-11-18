@@ -1,6 +1,6 @@
 <h1 align="center">Hi there, I'm Denlie 👋</h1>
 
-<h3 align="center">Aspiring Full-Stack Developer | Fresh Computer Engineering Graduate</h3>
+<h3 align="center"> Full-Stack Developer | Computer Engineering Graduate</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=38BDF8&center=true&vCenter=true&width=500&lines=Building+projects+to+learn+by+doing;Web+Dev+%7C+Game+Dev+%7C+Applications;Currently+shipping+DevBoard+%26+SSDP" alt="Typing SVG" />
